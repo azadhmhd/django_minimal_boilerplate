@@ -1,0 +1,1 @@
+# django_minimal_boilerplate
